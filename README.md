@@ -74,18 +74,7 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-## 打赏
-码砖不易，如果您需要，随意打赏，从零开始搭建此项目，直到发版 ->后期运营~
-> * QQ: 383755537
-> * WX: bjawenfd
 
-### 支付宝
-
-<img src="https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/zhifubaoshou.png" width="300" /> <img src="https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/zhifubaohong.png" width="300" />
-
-### 微信
-
-<img src="https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/weixinshou.png" width="300" />
 
 ## License
 
