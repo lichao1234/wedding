@@ -76,8 +76,3 @@ npm run build --report
 ```
 
 
-## License
-
-[MIT](http://opensource.org/licenses/MIT)
-
-Copyright (c) 2019-present, developed by jack.zhang
