@@ -50,14 +50,6 @@
 
 ![体验码](https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/marry/marry.jpg)
 
----
-###  github地址
-
-github：https://github.com/zhangliwen1101/wedding
-
-个人博客：https://blog.csdn.net/lwzhang1101
-
----
 
 ### Build Setup
 
